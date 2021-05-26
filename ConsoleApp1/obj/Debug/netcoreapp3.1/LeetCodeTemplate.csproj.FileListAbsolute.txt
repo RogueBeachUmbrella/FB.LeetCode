@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.exe
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.dll
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\bin\Debug\netcoreapp3.1\LeetCodeTemplate.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.csprojAssemblyReference.cache
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.dll
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\ConsoleApp1\obj\Debug\netcoreapp3.1\LeetCodeTemplate.genruntimeconfig.cache

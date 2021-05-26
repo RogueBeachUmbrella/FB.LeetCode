@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters", "FB LeetCode\LongestSubstringWithoutRepeatingCharacters.csproj", "{49F57390-0F87-41A9-8F5C-487C0E6E3844}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysStrings", "ArraysStrings", "{CF8F158A-B52B-4197-B919-6E0120E5A5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeTemplate", "ConsoleApp1\LeetCodeTemplate.csproj", "{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F57390-0F87-41A9-8F5C-487C0E6E3844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F57390-0F87-41A9-8F5C-487C0E6E3844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F57390-0F87-41A9-8F5C-487C0E6E3844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F57390-0F87-41A9-8F5C-487C0E6E3844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49F57390-0F87-41A9-8F5C-487C0E6E3844} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
+		{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E10527-5AD9-4A50-8D72-12FCAB4E1E77}
+	EndGlobalSection
+EndGlobal
