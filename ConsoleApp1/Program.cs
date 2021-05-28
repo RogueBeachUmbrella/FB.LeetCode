@@ -5,6 +5,11 @@ using System.Linq;
 
 namespace LeetCodeTemplate
 {
+    /*
+        Runtime: 112 ms
+        Memory Usage: 29 MB
+     */
+
     /* String to Integer (atoi)
      
     Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
@@ -108,14 +113,14 @@ namespace LeetCodeTemplate
         {
             List<string> strings = new List<string>()
             {
-                //"fejhw 42", 
-                //"   -42",
-                //"words and 987",
-                //"-91283472332",
-                //"+1",
-                //"words and 987",
-                //"+-12",
-                //"00000-42a1234",
+                "fejhw 42", 
+                "   -42",
+                "words and 987",
+                "-91283472332",
+                "+1",
+                "words and 987",
+                "+-12",
+                "00000-42a1234",
                 "-3.1425"
             };
 
@@ -127,25 +132,9 @@ namespace LeetCodeTemplate
 
         public class Solution
         {
-
-            public int MyAtoix(string s)
-            {
-                s = s.TrimStart();
-
-                if(s.Length == 0)
-                {
-                    return 0;
-                }
-
-
-
-
-                return 0;
-            }
-
             public int MyAtoi(string s)
             {
-                s = new string(s.TrimStart().TakeWhile(c => c == '-' || c == '+' || c == '.' || Char.IsNumber(c)).ToArray());
+                s = new string(s.TrimStart().TakeWhile(c => c == '-' || c == '+' || Char.IsNumber(c)).ToArray());               
 
                 if(s.Length == 0)
                 {
@@ -175,30 +164,6 @@ namespace LeetCodeTemplate
                 {
                     return 0;
                 }
-            }
-
-
-
-
-            public int MyAtoi1(string s)
-            {
-
-
-                string match = new Regex(@"^(?:[-|+]??[\d|\.]+)").Match(s.TrimStart()).Value;
-
-                if (string.IsNullOrEmpty(match))
-                {
-                    return 0;
-                }
-                else if (Int32.TryParse(match, out int n))
-                {
-                    return n;
-                }
-                else
-                {
-                    return match.StartsWith('-') ? Int32.MinValue : Int32.MaxValue;
-                }
-
             }
         }
     }

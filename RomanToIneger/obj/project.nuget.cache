@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1t9tSQJyf+R1QsHsNv2HufVhD888qtkrXG09Ots+8PLI82Qmk1hbdYTQeRtyWYUR7VE36EjYszQBXIH/qyREA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\RomanToIneger\\RomanToIneger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
