@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ConsoleApp1\\LeetCodeTemplate.csproj",
-      "projectName": "LeetCodeTemplate",
-      "projectPath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ConsoleApp1\\LeetCodeTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ConsoleApp1\\StringToIntegerAtoi.csproj",
+      "projectName": "StringToIntegerAtoi",
+      "projectPath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ConsoleApp1\\StringToIntegerAtoi.csproj",
       "packagesPath": "C:\\Users\\jmgre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
