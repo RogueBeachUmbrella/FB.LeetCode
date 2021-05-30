@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.exe
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.dll
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\bin\Debug\netcoreapp3.1\3Sum.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.csprojAssemblyReference.cache
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.dll
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\3Sum\obj\Debug\netcoreapp3.1\3Sum.genruntimeconfig.cache

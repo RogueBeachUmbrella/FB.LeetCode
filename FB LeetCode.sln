@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysStrings", "ArraysStri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToIntegerAtoi", "ConsoleApp1\StringToIntegerAtoi.csproj", "{0AE8A12B-D59F-4B9B-B86A-3D49F2C92FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToIneger", "RomanToIneger\RomanToIneger.csproj", "{36B59726-0586-4889-B1C7-F8C3A40C4652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToIneger", "RomanToIneger\RomanToIneger.csproj", "{36B59726-0586-4889-B1C7-F8C3A40C4652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{FC447CFE-F8BD-4516-8358-658AF468846A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{36B59726-0586-4889-B1C7-F8C3A40C4652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B59726-0586-4889-B1C7-F8C3A40C4652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B59726-0586-4889-B1C7-F8C3A40C4652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC447CFE-F8BD-4516-8358-658AF468846A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC447CFE-F8BD-4516-8358-658AF468846A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC447CFE-F8BD-4516-8358-658AF468846A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC447CFE-F8BD-4516-8358-658AF468846A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

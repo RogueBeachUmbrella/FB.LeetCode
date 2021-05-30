@@ -71,7 +71,7 @@ namespace RomanToIneger
                 int result = 0;
                 for (int i = 0; i < arr.Length; i++)
                 {
-                    char v1 = arr[i];  //i + 1 < arr.Length ? arr[i+1] : ' ';
+                    char v1 = arr[i]; 
                     char v2 = i + 1 < arr.Length ? arr[i+1] : ' ';
 
 
