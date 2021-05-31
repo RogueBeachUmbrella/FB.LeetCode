@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.exe
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.dll
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.dll
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.genruntimeconfig.cache
+C:\Users\jmgre\source\repos\FB LeetCode\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.csprojAssemblyReference.cache

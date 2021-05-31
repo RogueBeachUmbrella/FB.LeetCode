@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Sum", "3Sum\3Sum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{406281AB-67A3-4714-A9D3-D2F1DB84063E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPermutation", "NextPermutation\NextPermutation.csproj", "{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{406281AB-67A3-4714-A9D3-D2F1DB84063E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406281AB-67A3-4714-A9D3-D2F1DB84063E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{406281AB-67A3-4714-A9D3-D2F1DB84063E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{36B59726-0586-4889-B1C7-F8C3A40C4652} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 		{FC447CFE-F8BD-4516-8358-658AF468846A} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 		{406281AB-67A3-4714-A9D3-D2F1DB84063E} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
+		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F4E10527-5AD9-4A50-8D72-12FCAB4E1E77}
