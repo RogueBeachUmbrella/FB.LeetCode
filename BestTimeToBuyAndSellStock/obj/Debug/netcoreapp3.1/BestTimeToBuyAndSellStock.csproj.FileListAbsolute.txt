@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.exe
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.dll
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.csprojAssemblyReference.cache
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.dll
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.genruntimeconfig.cache

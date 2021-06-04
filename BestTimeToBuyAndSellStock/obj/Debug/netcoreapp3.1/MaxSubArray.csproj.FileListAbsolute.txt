@@ -1,0 +1,12 @@
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.exe
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.dll
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\bin\Debug\netcoreapp3.1\MaxSubArray.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.dll
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\MaxSubArray.genruntimeconfig.cache
