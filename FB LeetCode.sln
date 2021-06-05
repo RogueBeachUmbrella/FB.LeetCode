@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "Dynam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubArray", "BestTimeToBuyAndSellStock\MaxSubArray.csproj", "{65DA3515-FC66-4E5C-962A-0DD9100F4AFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeBuyAndSell", "BestTimeBuyAndSell\BestTimeBuyAndSell.csproj", "{A2A5E62B-32F7-4225-859B-4B726F857A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{65DA3515-FC66-4E5C-962A-0DD9100F4AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65DA3515-FC66-4E5C-962A-0DD9100F4AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65DA3515-FC66-4E5C-962A-0DD9100F4AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A5E62B-32F7-4225-859B-4B726F857A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A5E62B-32F7-4225-859B-4B726F857A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A5E62B-32F7-4225-859B-4B726F857A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A5E62B-32F7-4225-859B-4B726F857A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{406281AB-67A3-4714-A9D3-D2F1DB84063E} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 		{AC6B57BB-50FB-4A28-83DE-F2267ABEFC83} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 		{65DA3515-FC66-4E5C-962A-0DD9100F4AFE} = {351F53CD-F9EA-4E5B-B867-73F1E80594AD}
+		{A2A5E62B-32F7-4225-859B-4B726F857A74} = {351F53CD-F9EA-4E5B-B867-73F1E80594AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F4E10527-5AD9-4A50-8D72-12FCAB4E1E77}

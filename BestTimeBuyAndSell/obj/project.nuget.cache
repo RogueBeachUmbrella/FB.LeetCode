@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TB1qB7iY8W/ie0aGwlL+hApfLKlZL7te+CSIQfuewLKaB5TRWas6SSQxizkPxQrTKkpfNljfC3K9tUmFE3rWJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\BestTimeBuyAndSell\\BestTimeBuyAndSell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

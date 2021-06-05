@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MaxSubArray
+namespace MaximumSubArray
 {
     class Program
     {
