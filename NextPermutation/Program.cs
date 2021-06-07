@@ -27,29 +27,30 @@ namespace NextPermutation
             List<int[]> list = new List<int[]>()
             {
                 //{ new int[] { 1, 2, 3 } }, // Output: [1,3,2]
-                    // num[2] ->  num[1]
-                    
+                //    // num[2] ->  num[1]
+                //    
                 //{ new int[] { 3, 2, 1} }, // Output: [1,2,3]
-                    // None -> reverse
-                    
+                //    // None -> reverse
+                //    
                 //{ new int[] { 1, 1, 5} }, // Output: [1,5,1]
-                    // num[2] -> num[1]
-
+                //    // num[2] -> num[1]
+                //
                 //{ new int[] { 1 } }, // Output: [1]
-
+                //
                 //{ new int[] { 2, 3, 1 } }, 
-                    /*
-                                            [2,3,1]
-                        num[2] <-> num[1] = [2,1,3]
-                        num[2] <-> num[0] = [3,1,2]
-                     */
-
-                { new int[] { 1, 3, 2} } 
-                    /*
-                                           [1,3,2]
-                        num[2] -> num[1] = [1,2,3]
-                        num[1] -> num[0] = [2,1,3]
-                     */
+                //    /*
+                //                            [2,3,1]
+                //        num[2] <-> num[1] = [2,1,3]
+                //        num[2] <-> num[0] = [3,1,2]
+                //     */
+                //
+                //{ new int[] { 1, 3, 2} } 
+                /*
+                                       [1,3,2]
+                    num[2] -> num[1] = [1,2,3]
+                    num[1] -> num[0] = [2,1,3]
+                 */
+                { new int[] { 2,2,7,5,4,3,2,2,1} } // [2,3,1,2,2,2,4,5,7]
 
             };
 
@@ -63,185 +64,42 @@ namespace NextPermutation
                 if (nums.Length < 2)
                     return;
 
-                Console.Write("Input: ");
-                foreach (int i in nums)
+                int i = nums.Length - 2;
+                while (i >= 0 && nums[i + 1] <= nums[i])
                 {
-                    Console.Write("{0} ", i);
+                    i--;
                 }
 
-                int firstDecreasing = FirstDecreasing(nums);
-
-                if (firstDecreasing != -1)
+                if (i >= 0)
                 {
-                    int temp = firstDecreasing + 1;
-                    for (int i = 0; i < nums.Length; i++)
+                    int j = nums.Length - 1;
+                    while (nums[j] <= nums[i])
                     {
-                        if (nums[i] < nums[firstDecreasing])
-                        {
-                            if (temp != -1 && nums[temp] > nums[i])
-                            {
-                                temp = i;
-                            }
-                        }
-                        else
-                        {
-                            break;
-                        }
+                        j--;
                     }
-                    int current = nums[temp];
-                    nums[temp] = nums[firstDecreasing];
-                    nums[firstDecreasing] = current;
+                    Swap(nums, i, j);
                 }
-                
-
-
-                if (firstDecreasing == -1)
-                {
-                    Array.Reverse(nums);
-                }
-
-                Console.Write("Output: ");
-                foreach (int i in nums)
-                {
-                    Console.Write("{0} ", i);
-                }
-                Console.WriteLine();
-
+                Reverse(nums, i + 1);
             }
 
-            public int FirstDecreasing(int[] nums)
+            public void Reverse(int[] nums, int start)
             {
-                for (int i = nums.Length - 1; i >= 0; i--)
+                int i = start;
+                int j = nums.Length - 1;
+
+                while (i < j)
                 {
-                    if (nums[i] < nums[i - 1])
-                    {
-                        return i - 1;
-                    }
+                    Swap(nums, i, j);
+                    i++;
+                    j--;
                 }
-                return -1;
             }
 
-            public int PositionsToShift(int[] nums, int firstDescending)
+            public void Swap(int[] nums, int i, int j)
             {
-                int pos = firstDescending - 1;
-                while(nums[firstDescending] < nums[pos])
-                {
-                    pos++;
-                }
-
-                return -pos;
-            }
-
-
-
-
-
-
-
-
-
-
-
-
-            public void NextPermutation2(int[] nums)
-            {
-                if (nums.Length < 2)
-                    return;
-
-                Console.Write("Input: ");
-                foreach (int i in nums)
-                {
-                    Console.Write("{0} ", i);
-                }
-
-                int firstDecreasing = -1;
-                for(int i = nums.Length - 2; i >= 0; i--) 
-                {
-                    if(nums[i] < nums[i + 1] && firstDecreasing == -1)
-                    {
-                        firstDecreasing = i + 1;
-                        int temp = nums[i];
-                        nums[i] = nums[firstDecreasing];
-                        nums[firstDecreasing] = temp;
-                        i++;
-                        for (int k = i + 1; k < nums.Length; k++)
-                        {
-                            if (nums[k] < nums[i])
-                            {
-                                temp = nums[k];
-                                nums[k] = nums[i];
-                                nums[i] = temp;
-                            }
-                            i++;
-                        }
-                    }
-                }
-
-                
-
-                if (firstDecreasing == -1)
-                {
-                    Array.Reverse(nums);
-                }
-
-                Console.Write("Output: ");
-                foreach (int i in nums)
-                {
-                    Console.Write("{0} ", i);
-                }
-                Console.WriteLine();
-
-            }
-
-
-            public void NextPermutation1(int[] nums)
-            {
-                if (nums.Length < 2)
-                    return;
-
-                int dec = -1;
-                int i = -1;
-                for(int j = nums.Length -2; j>= 0; j--)
-                {
-                    if(nums[j] < nums[j + 1]){
-                        i = j;
-                        break;
-                    }                   
-                }
-
-                if (i != -1)
-                {
-                    int temp = -1;
-                    for (int k = i + 1; k < nums.Length; k++)
-                    {
-                        if (nums[k] > nums[i])
-                        {
-                            if (temp != -1 && nums[temp] < nums[k])
-                            {
-                                //Do nothing.. 
-                            }
-                            else
-                            {
-                                temp = k;
-                                dec = nums[temp];
-                            }
-                        }
-                        //else
-                        //{
-                        //    break;
-                        //}
-                    }
-
-                    int current = nums[temp];
-                    nums[temp] = nums[i];
-                    nums[i] = current;
-                    temp = i;
-                }
-
-                if (i == -1)
-                {
-                    Array.Reverse(nums);
-                }   
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
             }
         }
     }
