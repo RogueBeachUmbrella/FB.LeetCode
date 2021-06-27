@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma/9tOext0ja/hhe47sDwYu5TilGIu6DciWeRjXmRy79gDcy+IgSs4qfYP1p9jX/J1QVJB8nGUZ9Ktf2cxMKkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\ValidParentheses\\ValidParentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
