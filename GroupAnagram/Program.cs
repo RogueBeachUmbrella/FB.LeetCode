@@ -86,23 +86,5 @@ namespace GroupAnagrams
 
             return list;
         }
-
-        public static Dictionary<char,int> CreateCharDictionary(string word)
-        {
-            Dictionary<char, int> dict = new Dictionary<char, int>();
-            for (int j = 0; j < word.Length; j++)
-            {
-                if (dict.ContainsKey(word[j]))
-                {
-                    dict[word[j]]++;
-                }
-                else
-                {
-                    dict.Add(word[j], 1);
-                }
-            }
-
-            return new Dictionary<char, int>(dict.OrderBy(d => d.Key));
-        }
     }
 }
