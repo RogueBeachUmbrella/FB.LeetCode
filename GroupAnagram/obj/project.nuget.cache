@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsyphNBZeboUlpCJmSExUsEg5Llw+T6G5FlsgrwRq9RojFetLn0ITZLthRxUJ9PqJtrudSJgwR3XWH9SilAETw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\GroupAnagram\\GroupAnagrams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

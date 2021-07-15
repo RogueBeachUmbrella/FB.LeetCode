@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeBuyAndSell", "BestT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{AA62552B-AD85-4B24-AC5C-44CA9DBE93B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyStrings", "MultiplyStrings\MultiplyStrings.csproj", "{FF31BB5D-A209-4788-8659-89CAA71093C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyStrings", "MultiplyStrings\MultiplyStrings.csproj", "{FF31BB5D-A209-4788-8659-89CAA71093C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagram\GroupAnagrams.csproj", "{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{FF31BB5D-A209-4788-8659-89CAA71093C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF31BB5D-A209-4788-8659-89CAA71093C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF31BB5D-A209-4788-8659-89CAA71093C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{A2A5E62B-32F7-4225-859B-4B726F857A74} = {351F53CD-F9EA-4E5B-B867-73F1E80594AD}
 		{AA62552B-AD85-4B24-AC5C-44CA9DBE93B5} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 		{FF31BB5D-A209-4788-8659-89CAA71093C2} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
+		{2DA88EFD-AA69-4ED3-95FC-4760BFCB4C49} = {CF8F158A-B52B-4197-B919-6E0120E5A5C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F4E10527-5AD9-4A50-8D72-12FCAB4E1E77}

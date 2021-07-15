@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.exe
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.dll
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\bin\Debug\netcoreapp3.1\GroupAnagram.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.dll
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.genruntimeconfig.cache
+C:\Users\jmgre\source\repos\FB LeetCode\GroupAnagram\obj\Debug\netcoreapp3.1\GroupAnagram.csprojAssemblyReference.cache
