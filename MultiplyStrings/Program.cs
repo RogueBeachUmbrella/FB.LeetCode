@@ -4,6 +4,31 @@ using System.Numerics;
 
 namespace MultiplyStrings
 {
+    /*
+      Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
+
+      Note: You must not use any built-in BigInteger library or convert the inputs to integer directly.
+
+ 
+
+      Example 1:
+
+      Input: num1 = "2", num2 = "3"
+      Output: "6"
+      Example 2:
+
+      Input: num1 = "123", num2 = "456"
+      Output: "56088"
+ 
+
+      Constraints:
+
+      1 <= num1.length, num2.length <= 200
+      num1 and num2 consist of digits only.
+      Both num1 and num2 do not contain any leading zero, except the number 0 itself.
+       
+     
+     */
     class Program
     {
         static void Main(string[] args)
@@ -91,8 +116,6 @@ namespace MultiplyStrings
 
                     int x = n + m + remainder;
 
-                    //int a = result == "" ? 0 : int.Parse(result[0].ToString());
-
                     if (x > 9)
                     {
                         remainder = x / 10;
@@ -106,7 +129,7 @@ namespace MultiplyStrings
                     result = x + result;
                 }
 
-                return result.TrimStart('0');
+                return result;
             }
         }
     }
