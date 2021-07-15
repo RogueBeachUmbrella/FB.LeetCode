@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8XMHYCptlWhZaq0Nm3TGJ8EqoXWc0KrQTfxEOxZfNwqJ2wYMoVHoTIIulQJBgf5IYqhpOHya++EhCWxUOqdD8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmgre\\source\\repos\\FB LeetCode\\MultiplyStrings\\MultiplyStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmgre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
