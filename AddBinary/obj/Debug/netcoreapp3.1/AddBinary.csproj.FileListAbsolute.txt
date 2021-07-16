@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.exe
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.deps.json
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.json
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.dll
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csprojAssemblyReference.cache
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.dll
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Users\jmgre\source\repos\FB LeetCode\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.genruntimeconfig.cache
